@@ -1,7 +1,7 @@
 /**
- 
+
  @Name: layer
- 
+
  **/
 
 /* *html{background-image: url(about:blank); background-attachment: fixed;} */
@@ -120,9 +120,9 @@ html #layuicss-layer{display: none; position: absolute; width: 1989px;}
 
 
 /**
- 
+
  @Name: layer拓展样式
- 
+
  */
 
 .layui-layer-iconext{background:url(icon-ext.png) no-repeat;}
